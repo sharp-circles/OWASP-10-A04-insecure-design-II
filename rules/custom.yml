@@ -1,0 +1,10 @@
+rules:
+  - id: SQL-injection
+    languages:
+      - csharp
+    severity: ERROR
+    message: SQL injection vulnerability detected
+    pattern: |
+      var $X = $"...{$Y}...";
+
+      ... $CTX.QueryAsync(..., $X);
