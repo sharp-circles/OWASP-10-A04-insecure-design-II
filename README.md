@@ -215,7 +215,7 @@ Not sending pseudonymous metrics since metrics are configured to AUTO and regist
 }
 ```
 
-#### Finding your way out with google dorks
+### Finding your way out with google dorks
 
 Google dorks is an incredible tools for hacking at web browsers. It allows you to perform tailored queries through concrete operators. If you know what you are looking for, and Google has indexed it (weird, right?), you have chances of finding some juicy info.
 
@@ -231,7 +231,7 @@ Find an yml config file in github with complex keyword combination and or operat
 
 ```site:https://github.com ext:yaml intext:languages*csharp*message*"(sql | injection | sqli)"```
 
-#### Links glossary
+### Links glossary
 
 - **Aikido**: <https://www.aikido.dev/scanners/static-code-analysis-sast>
 - **Trivy**: <https://trivy.dev/latest/>
