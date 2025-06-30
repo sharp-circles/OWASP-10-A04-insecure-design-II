@@ -233,11 +233,11 @@ Find an yml config file in github with complex keyword combination and or operat
 
 #### Links glossary
 
-**Aikido**: <https://www.aikido.dev/scanners/static-code-analysis-sast>
-**Trivy**: <https://trivy.dev/latest/>
-**Semgrep**: <https://semgrep.dev/>
-**Opengrep**: <https://github.com/opengrep/opengrep>
-**Opengrep rules datasource**: <https://github.com/opengrep/opengrep-rules>
-**Writing semgrep rules**: <https://semgrep.dev/docs/writing-rules/overview>
-**Semgrep rule playground**: <https://semgrep.dev/playground/new>
-**OWASP free SAST tools overview**: <https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools>
+- **Aikido**: <https://www.aikido.dev/scanners/static-code-analysis-sast>
+- **Trivy**: <https://trivy.dev/latest/>
+- **Semgrep**: <https://semgrep.dev/>
+- **Opengrep**: <https://github.com/opengrep/opengrep>
+- **Opengrep rules datasource**: <https://github.com/opengrep/opengrep-rules>
+- **Writing semgrep rules**: <https://semgrep.dev/docs/writing-rules/overview>
+- **Semgrep rule playground**: <https://semgrep.dev/playground/new>
+- **OWASP free SAST tools overview**: <https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools>
